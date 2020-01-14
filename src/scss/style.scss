@@ -1,0 +1,9 @@
+body{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+}
+.test{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
